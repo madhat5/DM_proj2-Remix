@@ -1,0 +1,24 @@
+body {
+	margin: 0 auto 25%;
+	padding: 0 30px;
+	/* background-color: white; */
+	color: #151515;
+	background: linear-gradient(105deg, transparent, black 30%);
+}
+
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: lighter;
+	font-style: italic;
+	margin-left: 30px;
+}
+
+p {
+	font-size: 20px;
+	margin: auto;
+	line-height: 150%;	
+}
